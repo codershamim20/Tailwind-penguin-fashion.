@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    font-family: 'Bebas Neue', cursive;
+    background: #E5E5E5;
+}
+header{
+    background: #FFFBF0;
+}
+.hero h1{
+    font-family: Bebas Neue;
+font-size: 80px;
+font-style: normal;
+font-weight: 700;
+line-height: 80px;
+letter-spacing: 0em;
+text-align: left;
+}
+.btn-hero{
+    width: 170px;
+    height: 60px;
+    color: white;
+    background-color: #A4BC46;
+    border-radius: 10px;
+}
+/* // Small devices (landscape phones, 576px and up)// */
+/* @media only screen and (min-width: 576px) { 
+    .hero h1
+    {   padding-top: 59px;
+        line-height: 50px;
+        font-size: 50px;} 
+} */
+.hero-heading{
+    color: #FABE4C;
+}
+.women{
+    background-color: white;
+}
+.card img{
+    width: 334px;
+    height: 327px;
+    background: #F1F1F1;
+    border-radius: 20px;
+}
