@@ -33,12 +33,13 @@ text-align: left;
 .hero-heading{
     color: #FABE4C;
 }
-.women{
+.women, .fit{
     background-color: white;
 }
-.card img{
+.card-img{
     width: 334px;
     height: 327px;
     background: #F1F1F1;
     border-radius: 20px;
 }
+
